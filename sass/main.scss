@@ -1,1 +1,8 @@
+//base
 @import './utils/variables';
+@import './utils/base';
+//page
+@import './components/logo';
+@import './components/page-header';
+@import './components/main-section';
+@import './components/second-section';
