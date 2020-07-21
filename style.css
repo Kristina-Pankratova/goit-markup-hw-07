@@ -260,7 +260,7 @@ a {
   background: rgba(47, 48, 58, 0.8);
   color: var(--white-title-color);
 }
-
+/*fourth-section-team*/
 .our-team-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -329,6 +329,7 @@ a {
 .network-item:not(:last-child) {
   margin-right: 10px;
 }
+/*fifth-section-client*/
 .client-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -405,6 +406,7 @@ a {
 .footer-contacts {
   margin-top: 9px;
 }
+/*join*/
 .join-content {
   width: 206px;
   padding-top: 72px;
@@ -445,6 +447,7 @@ a {
   margin-bottom: 20px;
   color: var(--white-title-color);
 }
+/*subscribe*/
 .footer-subscribe {
   padding-top: 72px;
   padding-bottom: 50px;
