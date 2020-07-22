@@ -499,6 +499,7 @@ a {
   margin: 0px;
   color: rgba(255, 255, 255, 0.4);
 }
+/*portfolio-page*/
 .portfolio-main-page {
   padding-top: 93px;
   padding-bottom: 94px;
@@ -603,6 +604,7 @@ a {
   display: flex;
   color: var(--text-color);
 }
+/*modal*/
 .modal-backdrop {
   position: fixed;
   top: 0;
